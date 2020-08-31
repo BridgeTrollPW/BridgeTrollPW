@@ -1,10 +1,10 @@
 # Hey there 🤙
-![](spacer1.png)
+![](https://raw.githubusercontent.com/BridgeTrollPW/BridgeTrollPW/master/spacer1.png)
 
 
 # Technologies & competence 🏧
-![](spacer3.png)
+![](https://raw.githubusercontent.com/BridgeTrollPW/BridgeTrollPW/master/spacer3.png)
 
 
 # Projects 🤖
-![](spacer2.png)
+![](https://raw.githubusercontent.com/BridgeTrollPW/BridgeTrollPW/master/spacer2.png)
