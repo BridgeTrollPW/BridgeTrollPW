@@ -1,1 +1,1 @@
-![Image](alina-grubnyak-ZiQkhI7417A-unsplash.jpg)
+![Image](https://raw.githubusercontent.com/BridgeTrollPW/BridgeTrollPW/master/alina-grubnyak-ZiQkhI7417A-unsplash.jpg)
