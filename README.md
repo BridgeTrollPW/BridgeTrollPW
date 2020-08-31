@@ -1,1 +1,10 @@
-![Image](https://raw.githubusercontent.com/BridgeTrollPW/BridgeTrollPW/master/alina-grubnyak-ZiQkhI7417A-unsplash.jpg)
+# Hey there 🤙
+![](spacer1.png)
+
+
+# Technologies & competence 🏧
+![](spacer3.png)
+
+
+# Projects 🤖
+![](spacer2.png)
